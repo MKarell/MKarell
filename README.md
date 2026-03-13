@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MKarell (Mateusz Malczyk) and I'm in my first year od computer science at PJATK.
-- 👀 I'm currently interested in programming in general. I don't know what development path I will choose.
-- 🌱 I’m currently learning C++. Java and a little bit SQL.
+- 👋 Hi, I’m Mateusz Malczyk. I'm currently working at the helpdesk as a junior administrator. I am also studying computer science part-time at PJATK from 2023
+- 👀 Currently, I am interested in programming, but I am also developing my hobby which involves building, configuring and controlling drones.
+- 🌱 I’m currently learning C++, Java and a little bit SQL. I'm working on my own project and on a joint project with friends.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
